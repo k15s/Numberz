@@ -20,7 +20,7 @@ db==0.0.15
 decorator==3.4.0
 flup==1.0.2
 gunicorn==18.0
-httplib2==0.9
+httplib2==0.19.0
 itsdangerous==0.24
 pbr==0.8.2
 python-openid==2.2.5
